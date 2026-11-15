@@ -6,19 +6,19 @@ Golang developer focused on backend development and API design.
 ## Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,nodejs,fastapi" />
+  <img src="https://skillicons.dev/icons?i=go,python,fastapi" />
 </p>
 
 ## Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,html,css" />
 </p>
 
 ## Data & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,docker,git,github" />
 </p>
 
 ## Education
