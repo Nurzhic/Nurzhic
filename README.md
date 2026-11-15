@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**Nurzhic/Nurzhic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nurzhas 👋
 
-Here are some ideas to get you started:
+Golang developer focused on backend development and API design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,nodejs,fastapi" />
+</p>
+
+## Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css" />
+</p>
+
+## Data & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,docker,linux,git,github" />
+</p>
+
+## Education
+
+**Astana IT University**
+
+## Contact
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/d1vine_light)
