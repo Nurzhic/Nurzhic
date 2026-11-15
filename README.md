@@ -1,7 +1,7 @@
 
 # Hi, I'm Nurzhas 👋
 
-Golang developer focused on backend development and API design.
+Golang developer building scalable backend systems and full-stack applications.
 
 ## Backend
 
